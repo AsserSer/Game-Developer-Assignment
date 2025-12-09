@@ -1,0 +1,34 @@
+node_modules/
+dist/
+*.log
+.DS_Store
+.vscode/
+.idea/
+
+# Compiled files in root
+main.js
+main.js.map
+*.main.js
+*.main.js.map
+
+# TypeScript
+*.tsbuildinfo
+
+# Webpack cache
+.cache/
+.webpack/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS files
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Test coverage
+coverage/
+
